@@ -9,8 +9,8 @@ logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger("book_scraper")
 
 # ZLibrary credentials
-EMAIL = "nzambakitheka@gmail.com"
-PASSWORD = "6cp@Lydia"
+EMAIL = " <<Register yours>> "
+PASSWORD = " "
 
 async def login(session):
     """Log in to ZLibrary and save the session cookies."""
