@@ -15,8 +15,8 @@ logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger("zlibrary")
 
 # ZLibrary credentials
-EMAIL = "nzambakitheka@gmail.com"
-PASSWORD = "6cp@Lydia"
+EMAIL = "<<Register from ZLIBRARY>>"
+PASSWORD = " "
 
 # Limit the number of concurrent requests
 MAX_CONCURRENT_REQUESTS = 10
